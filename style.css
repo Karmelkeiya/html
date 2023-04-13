@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 1rem;
+  background-color: antiquewhite;
+}
+
+body h1 {
+  font-size: 2rem;
+}
+
+body p {
+  font-size: 1.5rem;
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic;
+}
+
+body li {
+  font-size: 1.4rem;
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic;
+}
+
+body ul {
+  font-size: 1.4rem;
+  font-family: "Courier New", Courier, monospace;
+}
